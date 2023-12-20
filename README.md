@@ -1,16 +1,16 @@
 # Setup
 
 ## 1. Clone the Repository
-Clone the `gpteacher_final` repository to your local machine using the GitHub CLI or command-line:
+Clone the `gpt_teacher_final` repository to your local machine using the GitHub CLI or command-line:
 
 ```bash
-git clone https://github.com/PEAK-Wind-Develop/WTGAnalyzer.git
+git clone https://github.com/SpyrosPikoulasDtu/gpt_teacher_final.git
 ```
 
 Navigate into the cloned repository.
 
 ```bash
-cd gpteacher_final
+cd gpt_teacher_final
 ```
 
 ## 2. Set up the environment
@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 Download the `data` folder from here: [Data folder](https://drive.google.com/drive/folders/1BQoijinmjCjfA7Bd1o4cYmn8r1RX_jCe?usp=sharing)
 
-Place the folder in the same folder as the `app.py`
+Place the folder(not the files) in the same folder as the `app.py`(the gpt_teacher_final folder)
 
 ## 5. Run the app
 
