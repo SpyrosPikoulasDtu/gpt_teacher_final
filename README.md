@@ -1,3 +1,16 @@
+# Generative Pretrained Teacher
+
+In this project, we present the development of a Large Language Model
+(LLM)-powered tutoring application. We provide a system which, given a set of
+teaching material in the form of lecture transcripts can provide a student with
+help in understanding the material, create tests for assessing the student's
+understanding and prepare notes based on the lecture content. We briefly go
+over the theoretical background of LLMs and discuss the different engineering
+decisions we took during the system's development, showcasing the merits as
+well as difficulties of creating LLM-based applications both using large
+commercial language models as well as smaller models that can run on a modern
+laptop.
+
 # Setup
 
 ## 1. Clone the Repository
